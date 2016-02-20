@@ -1,0 +1,1 @@
+"C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in Slaw.ahk /icon Slaw.ico /out Slaw.exe
